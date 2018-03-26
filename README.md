@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/E-A-N/protoRunner/blob/master/assetDump/images/sprites/MagiFlightLogo.png"></div>
 
-An infinite runner game created in Phaser! This repository is only for stable builds not active development.
+# An infinite runner game created in Phaser! This repository is only for stable builds not active development.
 
 ## Creators
 
