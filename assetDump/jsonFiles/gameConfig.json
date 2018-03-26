@@ -1,0 +1,12 @@
+
+{
+    "gameSettings": [
+    {
+        "name": "width",
+        "value": 720
+    },
+    {
+        "name": "height",
+        "value": 480
+    }]
+}

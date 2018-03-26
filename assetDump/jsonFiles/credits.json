@@ -1,0 +1,24 @@
+{
+  "credits" : {
+    "ean" : {
+      "leadProgrammer": true,
+      "contactInfo" : "N/A"
+    },
+    "keibii" : {
+      "artDirector": true,
+      "contactInfo": "N/A"
+    },
+    "hector": {
+      "leadAnimator": true,
+      "contactInfo": "N/A"
+    },
+    "dan" : {
+      "programmer": true,
+      "contactFood": "N/A"
+    },
+    "lucy": {
+      "technicalartist": true,
+      "contactInfo": "N/A"
+    }
+  }
+}
