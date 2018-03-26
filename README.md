@@ -3,7 +3,7 @@
 ## An infinite runner game created in Phaser! This repository is only for stable builds not active development.
 
 <h1>
-    <a align="center" href="http://e-a-n.github.io/magiflight"> 
+    <a align="center" href="https://e-a-n.github.io/magiflight/"> 
         Play it now! 
     </a>
 </h1>
